@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Control de Temperatura</string>
+    <string name="stop">Stop</string>
+</resources>

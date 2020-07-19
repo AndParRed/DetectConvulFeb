@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name febril)(type KiCad)(uri ${KIPRJMOD}/febril.pretty)(options "")(descr ""))
+  (lib (name compolib)(type KiCad)(uri /home/domi/pfgrado/andres/circuito/febril/compolib)(options "")(descr ""))
+)

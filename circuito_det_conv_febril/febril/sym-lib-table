@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name MLX90615SSG-DAG-000-TU)(type Legacy)(uri /home/domi/pfgrado/andres/circuito/febril/compolib/MLX90615SSG-DAG-000-TU.lib)(options "")(descr ""))
+  (lib (name modulosBateria)(type Legacy)(uri ${KIPRJMOD}/modulosBateria.lib)(options "")(descr ""))
+  (lib (name Miswitch)(type Legacy)(uri ${KIPRJMOD}/Miswitch.lib)(options "")(descr ""))
+  (lib (name febril-rescue)(type Legacy)(uri ${KIPRJMOD}/febril-rescue.lib)(options "")(descr ""))
+)

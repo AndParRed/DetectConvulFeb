@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# MLX90615SSG-DAG-000-TU
+#
+DEF MLX90615SSG-DAG-000-TU U 0 40 Y Y 1 L N
+F0 "U" -501 300 50 H V L BNN
+F1 "MLX90615SSG-DAG-000-TU" -501 -501 50 H V L BNN
+F2 "TO127P550H280-4" 0 0 50 H I L BNN
+F3 "005" 0 0 50 H I L BNN
+F4 "IPC 7351B" 0 0 50 H I L BNN
+F5 "MELEXIS" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 -500 -400 -500 300 N
+P 2 0 0 10 -500 300 500 300 N
+P 2 0 0 10 500 300 500 -400 N
+P 2 0 0 10 500 -400 -500 -400 N
+X SDA/PWM 1 -700 -100 200 R 40 40 0 0 B 
+X VDD 2 700 200 200 L 40 40 0 0 W 
+X SCL 3 -700 0 200 R 40 40 0 0 I 
+X VSS 4 700 -300 200 L 40 40 0 0 W 
+ENDDRAW
+ENDDEF
+#
+# End Library
